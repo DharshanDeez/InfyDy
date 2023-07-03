@@ -1,0 +1,1 @@
+Its a news app built on react native replace api key using news api key
